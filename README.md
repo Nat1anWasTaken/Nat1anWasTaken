@@ -4,7 +4,7 @@
 還請各位電神們手下留情🛐
 
 ### 🔭 現在的專案
-<ttps://github.com/NathanTW0219/KDiscord> - Yeecord Community的管理機器人
+<https://github.com/NathanTW0219/KDiscord> - Yeecord Community的管理機器人
 
 ### 🌱 我正在學習...
 * Frontend Development with Vue.js
