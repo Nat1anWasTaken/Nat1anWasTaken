@@ -9,7 +9,7 @@
 
 
 ## 🌱 我正在學習...
-* <img src="icons/vue.svg" width=16> Frontend Development with Vue.js
+* <img src="icons/react.svg" width=16> Frontend Development with React.js
 
 ## 📫 如何找到我...
 <img src="icons/discord.svg" width=16> [Discord](https://discord.com/) NathanTW#9737<br>
