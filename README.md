@@ -18,5 +18,5 @@
 )
 
 
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanTW0219&theme=discord_old_blurple&count_private=true&layout=compact)<br>
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=NathanTW0219&theme=discord_old_blurple&show_icons=true&count_private=true)<br>
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nat1anWasTaken&theme=discord_old_blurple&count_private=true&layout=compact)<br>
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=Nat1anWasTaken&theme=discord_old_blurple&show_icons=true&count_private=true)<br>
