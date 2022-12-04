@@ -3,9 +3,8 @@
 主語言是Python
 還請各位電神們手下留情🛐
 
-## 🔭 現在的專案
-### [KDiscord](https://github.com/NathanTW0219/KDiscord) - Yeecord Community專用的管理機器人
-* <img src="icons/code.svg" width=16> Python
+## 我在 Github 上的貢獻
+
 
 
 ## 🌱 我正在學習...
