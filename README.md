@@ -5,7 +5,7 @@
 
 ## 我在 Github 上的貢獻
 
-
+<img src="https://raw.githubusercontent.com/Nat1anWasTaken/Nat1anWasTaken/output/github-contribution-grid-snake-dark.svg">
 
 ## 🌱 我正在學習...
 * <img src="icons/react.svg" width=16> Frontend Development with React.js
