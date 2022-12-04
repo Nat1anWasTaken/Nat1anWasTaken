@@ -11,8 +11,8 @@
 * <img src="icons/react.svg" width=16> Frontend Development with React.js
 
 ## 📫 如何找到我...
-<img src="icons/discord.svg" width=16> [Discord](https://discord.com/) NathanTW#9737<br>
-<img src="icons/github.svg" width=16> [Github](https://github.com/NathanTW0219) NathanTW0219<br>
+<img src="icons/discord.svg" width=16> [Discord](https://discord.com/) NathanTW#0001<br>
+<img src="icons/github.svg" width=16> [Github](https://github.com/Nat1anWasTaken) Nat1anWasTaken<br>
 <img src="icons/email.svg" width=16> [contact@nat1an.xyz](https://mail.google.com/mail/?view=cm&source=mailto&to=contact@nat1an.xyz
 )
 
