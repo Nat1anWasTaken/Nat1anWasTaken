@@ -1,19 +1,14 @@
-## 📑 關於我
-本人是其中一位被台灣教育迫害的學生
-主語言是Python
-還請各位電神們手下留情🛐
+## 📑 Who am I
+A junior developer who mainly works with Python.
 
-## 我在 Github 上的貢獻
+## 🔧 My Contributions on GitHub
 
 <img src="https://raw.githubusercontent.com/Nat1anWasTaken/Nat1anWasTaken/output/github-contribution-grid-snake-dark.svg">
 
-## 🌱 我正在學習...
-* <img src="icons/react.svg" width=16> Frontend Development with React.js
-
-## 📫 如何找到我...
-<img src="icons/discord.svg" width=16> [Discord](https://discord.com/) NathanTW#0001<br>
+## 📫 How to contact me
+<img src="icons/discord.svg" width=16> [Discord](https://discord.com/) Nat1abn#0001<br>
 <img src="icons/github.svg" width=16> [Github](https://github.com/Nat1anWasTaken) Nat1anWasTaken<br>
-<img src="icons/email.svg" width=16> [contact@nat1an.xyz](https://mail.google.com/mail/?view=cm&source=mailto&to=contact@nat1an.xyz
+<img src="icons/email.svg" width=16> [contact@nat1an.xyz](https://mail.google.com/mail/?view=cm&source=mailto&to=nathan@nat1an.xyz
 )
 
 
