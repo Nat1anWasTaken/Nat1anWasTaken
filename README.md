@@ -23,7 +23,7 @@
 - 🌱 I'm currently learning: **🦀 Rust programming language**
 - 📂 Portfolio: **<a href="🍱  https://bento.me/nat1an" target="_blank">🍱  https://bento.me/nat1an</a>**
 
-### Skills
+### Skill Tree
 
 #### Programming languages
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
