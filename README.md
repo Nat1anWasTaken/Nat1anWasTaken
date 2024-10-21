@@ -20,7 +20,7 @@
 ### Rapid Fire
 
 - 💼 I'm currently working on: **Lava the Music Bot [Repository](https://github.com/Nat1anWasTaken/Lava)**
-- 🌱 I'm currently learning: **🦀 Rust programming language**
+- 🌱 I'm currently learning: **Rust programming language**
 - 📂 Portfolio: **<a href="🍱  https://bento.me/nat1an" target="_blank">🍱  https://bento.me/nat1an</a>**
 
 ### Skill Tree
