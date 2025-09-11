@@ -49,7 +49,7 @@
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="64" alt="MongoDB" style="margin-right: 4px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="64" alt="SQLite" style="margin-right: 4px"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" alt="PostgreSQL" style="margin-right: 4px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" height="64" alt="PostgreSQL" style="margin-right: 4px">
 </div>
 
 #### DevOps
