@@ -35,10 +35,21 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="64" alt="Kotlin" style="margin-right: 4px">
 </div>
 
+#### Frontend technologies
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="64" alt="React" style="margin-right: 4px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="64" alt="Next.js" style="margin-right: 4px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" height="64" alt="Svelte" style="margin-right: 4px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="64" alt="Tailwind CSS" style="margin-right: 4px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="64" alt="Vite" style="margin-right: 4px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" height="64" alt="Webpack" style="margin-right: 4px"> 
+</div>
+
 #### Databases
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="64" alt="MongoDB" style="margin-right: 4px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="64" alt="SQLite" style="margin-right: 4px"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" alt="PostgreSQL" style="margin-right: 4px">
 </div>
 
 #### DevOps
