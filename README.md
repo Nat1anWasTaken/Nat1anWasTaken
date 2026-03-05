@@ -58,8 +58,3 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="64" alt="VSCode" style="margin-right: 4px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" height="64" alt="JetBrains" style="margin-right: 4px">
 </div>
-
-### GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nat1anWasTaken&layout=compact" alt="GitHub top-languages Card" />
-<img src="https://github-readme-stats.vercel.app/api?username=Nat1anWasTaken&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&line_height=25" alt="GitHub stats Card" />
-<img src="https://streak-stats.demolab.com/?user=Nat1anWasTaken&theme=default&hide_border=false&border_radius=4.5&date_format=M+j%5B%2C+Y%5D&mode=daily&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&exclude_days=&locale=en&card_height=200" alt="GitHub streak Card" />
